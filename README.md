@@ -1,2 +1,2 @@
 # stripe-api-docs-sample
-A docs sample of the Stripe Api
+My sample documentation API of the Stripe API
